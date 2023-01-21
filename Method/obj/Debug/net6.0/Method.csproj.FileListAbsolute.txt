@@ -1,0 +1,15 @@
+C:\Users\ibrah\OneDrive\Desktop\code\Method\Method\bin\Debug\net6.0\Method.exe
+C:\Users\ibrah\OneDrive\Desktop\code\Method\Method\bin\Debug\net6.0\Method.deps.json
+C:\Users\ibrah\OneDrive\Desktop\code\Method\Method\bin\Debug\net6.0\Method.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Desktop\code\Method\Method\bin\Debug\net6.0\Method.dll
+C:\Users\ibrah\OneDrive\Desktop\code\Method\Method\bin\Debug\net6.0\Method.pdb
+C:\Users\ibrah\OneDrive\Desktop\code\Method\Method\obj\Debug\net6.0\Method.csproj.AssemblyReference.cache
+C:\Users\ibrah\OneDrive\Desktop\code\Method\Method\obj\Debug\net6.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Desktop\code\Method\Method\obj\Debug\net6.0\Method.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\code\Method\Method\obj\Debug\net6.0\Method.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Desktop\code\Method\Method\obj\Debug\net6.0\Method.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\code\Method\Method\obj\Debug\net6.0\Method.dll
+C:\Users\ibrah\OneDrive\Desktop\code\Method\Method\obj\Debug\net6.0\refint\Method.dll
+C:\Users\ibrah\OneDrive\Desktop\code\Method\Method\obj\Debug\net6.0\Method.pdb
+C:\Users\ibrah\OneDrive\Desktop\code\Method\Method\obj\Debug\net6.0\Method.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Desktop\code\Method\Method\obj\Debug\net6.0\ref\Method.dll
