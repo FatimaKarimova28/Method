@@ -35,29 +35,6 @@ namespace overload
         }
         
 
-            //static void FindOut(int number)
-            //{
-            //    if(number % 7 == 0)
-            //    {
-            //        number = number;
-            //    }
-            //    else if(number % 7 !=0 && number % 7 >= 3)
-            //    {
-            //        number += 1;
-            //    }
-            //    Console.WriteLine(number);
-            //}
-
-            //else if (number % 7 < 3)
-            //{
-            //    number = number - 2;
-            //}
-            //else
-            //{
-            //    number = number + 1;
-            //}
-            //Console.WriteLine(number);
-
 
 
             //int number = Convert.ToInt32(Console.ReadLine());
