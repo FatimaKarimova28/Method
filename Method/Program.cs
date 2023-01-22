@@ -27,7 +27,7 @@ namespace overload
 
             }
 
-            while(number % 7 != 0 && number % 7 >= 3)
+            while(number % 7 != 0 && number % 7 > 3)
             {
                 number++;
             }
