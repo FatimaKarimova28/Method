@@ -9,26 +9,54 @@ namespace overload
     {
         static void Main()
         {
-            //    int number = Convert.ToInt32(Console.ReadLine());
+            int number = Convert.ToInt32(Console.ReadLine());
 
-            //    FindOut(number);    
-            //}
+            FindOut(number);
+        }
+
+        static void FindOut(int number)
+        {
+            if (number % 7 == 0)
+            {
+                number = number;
+               
+            }
+            while (number % 7 != 0 && number % 7 <= 3)
+            {
+                number--;
+
+            }
+
+            while(number % 7 != 0 && number % 7 >= 3)
+            {
+                number++;
+            }
+            Console.WriteLine(number);
+        }
+        
 
             //static void FindOut(int number)
             //{
-            //    if (number % 7 == 0)
+            //    if(number % 7 == 0)
             //    {
             //        number = number;
             //    }
-            //    else if (number % 7 < 3)
+            //    else if(number % 7 !=0 && number % 7 >= 3)
             //    {
-            //        number = number - 2;
-            //    }
-            //    else
-            //    {
-            //        number = number + 1;
+            //        number += 1;
             //    }
             //    Console.WriteLine(number);
+            //}
+
+            //else if (number % 7 < 3)
+            //{
+            //    number = number - 2;
+            //}
+            //else
+            //{
+            //    number = number + 1;
+            //}
+            //Console.WriteLine(number);
 
 
 
@@ -46,24 +74,25 @@ namespace overload
             //}
 
 
-            string word = Console.ReadLine();
-            string word2 = Console.ReadLine();  
+            //    string word = Console.ReadLine();
+            //    string word2 = Console.ReadLine();  
 
-            Compare(word, word2);
+            //    Compare(word, word2);
 
-        }
+            //}
 
 
-        static void Compare(string word, string word2)
-        {
-            if (word.Length > word2.Length)
-            {
-                Console.WriteLine($"{word} uzundur");
-            }
-            else
-            {
-                Console.WriteLine($"{word2} uzundur");
-            }
-        }
+            //static void Compare(string word, string word2)
+            //{
+            //    if (word.Length > word2.Length)
+            //    {
+            //        Console.WriteLine($"{word} uzundur");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine($"{word2} uzundur");
+            //    }
+        
     }
 }
+    
